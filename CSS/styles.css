@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+  margin: 0 auto;
+  box-sizing: border-box;
+  background: #fafafa;
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  max-width: 1440px;
+}
+
+h1 {
+  color: hsl(234, 12%, 34%);
+  font-size:2.3rem
+
+}
+
+.top {
+  font-weight: 200;
+  margin-bottom: 0;
+}
+
+.bottom {
+  margin-top: 0;
+}
+
+h3 {
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+  margin-top: 0;
+}
+
+p {
+  font-weight: 600;
+  color: hsl(229, 6%, 66%);
+}
+
+.head {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.head p {
+  width: 38%;
+  margin: 0 auto;
+}
+
+
+.cont {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 80px;
+  
+}
+
+
+.sup {
+  border-top: 5px solid hsl(180, 62%, 55%);
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 30px;
+  width: 300px;
+  margin-right: 30px;
+  height: 200px;  position: relative;
+}
+
+.sup img {
+  position: absolute;
+  right: 30px;
+}
+
+.team {
+  border-top: 5px solid hsl(0, 78%, 62%);
+  background-color: #ffffff;
+  width: 300px;
+  padding: 30px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  height: 200px;
+  border-radius: 5px;
+  position: relative;
+}
+.team img {
+  position: absolute;
+  right: 30px;
+}
+
+.karma {
+  background-color: #ffffff;
+  width: 300px;
+  padding: 30px;
+  margin-right: 30px;
+  border-radius: 5px;
+  height: 200px;
+  position: relative;
+  border-top: 5px solid hsl(34, 97%, 64%);
+}
+.karma img {
+  position: absolute;
+  right: 30px;
+}
+
+.calc {
+  border-top: 5px solid hsl(212, 86%, 64%);
+  background-color: #ffffff;
+  width: 300px;
+  border-radius: 5px;
+  padding: 30px;
+  height: 200px;
+  position: relative;
+}
+.calc img {
+  position: absolute;
+  right: 30px;
+}
+
+.cont p {
+  padding-bottom: 30px;
+}
+
+
+.head {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.head p {
+  width: 38%;
+  margin: 0 auto;
+}
+
+
+.cont {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 80px;
+  
+}
+
+
+.car {
+  background-color: #ffffff;
+  width: 300px;
+  padding: 30px;
+  border-radius: 5px;
+  height: 200px;
+  position: relative;
+  box-shadow: 0px 20px 10px -15px #dde5f0;
+}
+
+.sup {
+  border-top: 5px solid hsl(180, 62%, 55%);
+  margin-right: 30px;
+
+}
+
+
+.team {
+  border-top: 5px solid hsl(0, 78%, 62%);
+  margin-right: 30px;
+  margin-bottom: 30px;
+ 
+}
+
+
+.karma {
+  margin-right: 30px;
+  border-top: 5px solid hsl(34, 97%, 64%);
+}
+
+
+.calc {
+  border-top: 5px solid hsl(212, 86%, 64%);
+  margin-right: 30px;
+}
+
+
+.cont p {
+  padding-bottom: 30px;
+}
+
+.imgcar {
+  position: absolute;
+  right: 30px;
+}
